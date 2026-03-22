@@ -1,0 +1,11 @@
+OrderID,Product,Category,Price,Quantity,Total,City
+1001,Wireless Mouse,Electronics,599,2,1198,Hyderabad
+1002,Bluetooth Headphones,Electronics,2499,1,2499,Bangalore
+1003,Notebook,Stationery,50,10,500,Chennai
+1004,Pen,Stationery,10,50,500,Hyderabad
+1005,Keyboard,Electronics,899,1,899,Bangalore
+1006,Chair,Furniture,1200,2,2400,Chennai
+1007,Desk,Furniture,2500,1,2500,Hyderabad
+1008,Mouse Pad,Electronics,199,5,995,Bangalore
+1009,Stapler,Stationery,150,3,450,Chennai
+1010,Headphones,Electronics,1999,2,3998,Hyderabad
